@@ -1,0 +1,45 @@
+@import	url(https://fonts.googleapis.com/css?family=Crimson+Text|EB+Garamond&display=swap);
+
+@import	url("components/container.css");
+@import	url("components/avatar.css");
+@import	url("components/button.css");
+@import	url("components/banner.css");
+@import	url("components/card.css");
+
+body { 
+	font-family: 'Solway', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 { 
+	font-family: 'Kalam', cursive;
+	font-weight: bold;
+}
+
+a {
+ text-decoration: none;
+}
+
+.list-inline {
+   list-style: none;
+   padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+   padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: #575F7D;
+}
+
+.list-inline i:hover {
+	color: black;
+	
+
+
+
+
